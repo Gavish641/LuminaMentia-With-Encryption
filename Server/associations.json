@@ -1,0 +1,120 @@
+{
+    "sports": [
+        "football", "soccer", "basketball", "tennis", "golf", "baseball",
+        "cricket", "rugby", "hockey", "volleyball", "table tennis", "badminton",
+        "boxing", "martial arts", "wrestling", "swimming", "cycling",
+        "running", "track and field", "gymnastics", "figure skating", "skiing",
+        "snowboarding", "surfing", "skateboarding", "fencing", "archery",
+        "weightlifting", "rowing", "sailing", "canoeing", "kayaking",
+        "diving", "triathlon", "pole vault", "high jump", "long jump",
+        "shot put", "javelin throw", "discus throw", "hammer throw",
+        "decathlon", "pentathlon", "heptathlon", "biathlon", "bobsleigh",
+        "luge", "skeleton", "water polo", "polo", "handball", "netball",
+        "croquet", "bowling", "billiards", "darts", "snooker", "gaelic football",
+        "hurling", "australian rules football", "ultimate frisbee", "golf"
+    ],
+    
+    "food": [
+        "pizza", "sushi", "burger", "pasta", "taco", "burrito", "sandwich",
+        "salad", "soup", "steak", "chicken", "fish and chips", "curry",
+        "ramen", "dumplings", "hot dog", "fried rice", "sushi roll",
+        "pad thai", "lasagna", "sushi", "pho", "chow mein", "sashimi",
+        "enchiladas", "nachos", "ceviche", "gyoza", "tempura", "dim sum",
+        "gyudon", "donburi", "biryani", "miso soup", "bacon", "eggs",
+        "pancakes", "waffles", "french toast", "bagel", "croissant",
+        "muffin", "toast", "omelette", "quiche", "granola", "porridge",
+        "yogurt", "cereal", "avocado toast", "smoothie", "fruit salad",
+        "cheeseburger", "hamburger", "fajitas", "quesadilla", "chili",
+        "tacos al pastor", "guacamole", "hummus", "falafel", "pita bread",
+        "kebab", "shawarma", "gazpacho", "risotto", "gnocchi", "couscous",
+        "moussaka", "paella", "ratatouille", "creme brulee", "tiramisu",
+        "cheesecake", "brownie", "ice cream", "gelato", "popsicle",
+        "frozen yogurt", "macarons", "churros", "crepes", "cannoli",
+        "sorbet", "baklava", "fudge", "truffles", "cobbler", "pavlova",
+        "biscotti", "scone", "eclair", "cupcake", "caramel apple", "chips",
+        "cake"
+    ],
+    
+    "animals": [
+        "lion", "cat", "dog", "fish", "giraffe", "penguin", "dolphin",
+        "elephant", "tiger", "zebra", "monkey", "bear", "kangaroo",
+        "hippopotamus", "snake", "crocodile", "wolf", "horse", "cow",
+        "chicken", "sheep", "rabbit", "deer", "fox", "eagle", "owl",
+        "squirrel", "panda", "gorilla", "rhino", "leopard", "turtle",
+        "octopus", "shark", "whale", "seal", "otter", "raccoon",
+        "frog", "bat", "hedgehog", "cheetah", "koala", "polar bear",
+        "arctic fox", "antelope", "camel", "llama", "duck", "goat",
+        "mouse", "rat", "pig", "moose", "hippogriff", "grizzly bear",
+        "gazelle", "jaguar", "ostrich", "koala", "armadillo", "chimpanzee",
+        "sloth", "gibbon", "orangutan", "gila monster", "platypus",
+        "komodo dragon", "salamander", "toucan", "parrot", "hummingbird",
+        "blue jay", "cardinal", "goldfish", "cockatoo", "finch",
+        "sparrow", "lizard", "gecko", "chameleon", "iguana", "skunk",
+        "chipmunk", "vulture", "condor", "magpie", "robin", "dove",
+        "swordfish", "barracuda", "stingray", "eel", "crab", "lobster",
+        "shrimp", "jellyfish", "starfish", "sea urchin", "manta ray"
+    ],
+
+    "Countries": [
+        "afghanistan", "albania", "algeria", "andorra", "angola", "antigua and barbuda",
+        "argentina", "armenia", "australia", "austria", "azerbaijan", "bahamas", "bahrain",
+        "bangladesh", "barbados", "belarus", "belgium", "belize", "benin", "bhutan", "bolivia",
+        "bosnia and herzegovina", "botswana", "brazil", "brunei", "bulgaria", "burkina faso",
+        "burundi", "cabo verde", "cambodia", "cameroon", "canada", "central african republic",
+        "chad", "chile", "china", "colombia", "comoros", "congo", "costa rica", "croatia",
+        "cuba", "cyprus", "czech republic", "democratic republic of the congo", "denmark",
+        "djibouti", "dominica", "dominican republic", "east timor", "ecuador", "egypt",
+        "el salvador", "equatorial guinea", "eritrea", "estonia", "eswatini", "ethiopia",
+        "fiji", "finland", "france", "gabon", "gambia", "georgia", "germany", "ghana", "greece",
+        "grenada", "guatemala", "guinea", "guinea-bissau", "guyana", "haiti", "honduras",
+        "hungary", "iceland", "india", "indonesia", "iran", "iraq", "ireland", "israel", "italy",
+        "ivory coast", "jamaica", "japan", "jordan", "kazakhstan", "kenya", "kiribati", "kosovo",
+        "kuwait", "kyrgyzstan", "laos", "latvia", "lebanon", "lesotho", "liberia", "libya",
+        "liechtenstein", "lithuania", "luxembourg", "madagascar", "malawi", "malaysia", "maldives",
+        "mali", "malta", "marshall islands", "mauritania", "mauritius", "mexico", "micronesia",
+        "moldova", "monaco", "mongolia", "montenegro", "morocco", "mozambique", "myanmar",
+        "namibia", "nauru", "nepal", "netherlands", "new zealand", "nicaragua", "niger", "nigeria",
+        "north korea", "north macedonia", "norway", "oman", "pakistan", "palau",
+        "panama", "papua new guinea", "paraguay", "peru", "philippines", "poland", "portugal",
+        "qatar", "romania", "russia", "rwanda", "saint kitts and nevis", "saint lucia",
+        "saint vincent and the grenadines", "samoa", "san marino", "sao tome and principe",
+        "saudi arabia", "senegal", "serbia", "seychelles", "sierra leone", "singapore",
+        "slovakia", "slovenia", "solomon islands", "somalia", "south africa", "south korea",
+        "south sudan", "spain", "sri lanka", "sudan", "suriname", "sweden", "switzerland", "syria",
+        "taiwan", "tajikistan", "tanzania", "thailand", "togo", "tonga", "trinidad and tobago",
+        "tunisia", "turkey", "turkmenistan", "tuvalu", "uganda", "ukraine", "united arab emirates",
+        "united kingdom", "united states", "uruguay", "uzbekistan", "vanuatu", "vatican city",
+        "venezuela", "vietnam", "yemen", "zambia", "zimbabwe"
+    ],
+    
+    "Colors": [
+        "red", "orange", "yellow", "green", "blue", "purple", "pink", "brown", "black", "white",
+        "gray", "silver", "gold", "beige", "cyan", "magenta", "turquoise", "lavender", "maroon",
+        "navy", "teal", "indigo", "violet", "olive", "mauve", "fuchsia", "cream", "charcoal",
+        "peach", "tan", "slate", "coral", "aqua", "lime", "mint", "ivory", "ruby", "emerald",
+        "sapphire", "amethyst", "topaz", "periwinkle", "tangerine", "lemon", "raspberry",
+        "chocolate", "crimson", "azure", "mocha", "plum", "mustard", "onyx", "pearl", "sky blue",
+        "seafoam", "salmon", "copper", "brick", "sunset", "eggplant", "steel", "moss", "burgundy",
+        "steel blue", "lilac", "ash", "denim", "honey", "cinnamon", "sand", "celadon", "cobalt",
+        "lagoon", "cerulean", "pumpkin", "scarlet", "mint green", "forest green", "jade",
+        "butterscotch", "pine green", "wheat", "magenta", "peach", "rose", "gold", "silver"
+    ],
+    
+    "celestial_objects": [
+        "mercury", "venus", "earth", "mars", "jupiter", "saturn", "uranus", "neptune",
+        "ceres", "pluto", "haumea", "makemake", "eris",
+        "moon", "io", "europa", "ganymede", "callisto",
+        "titan", "enceladus", "triton", "charon"
+    ],
+
+    "Languages": [
+        "english", "spanish", "french", "german", "mandarin", "arabic", "hindi", "portuguese",
+        "bengali", "russian", "japanese", "punjabi", "marathi", "telugu", "wu", "turkish",
+        "korean", "tamil", "vietnamese", "urdu", "italian", "thai", "gujarati", "javanese",
+        "filipino", "persian", "polish", "pashto", "kannada", "xiang", "malayalam", "sundanese",
+        "hausa", "odia", "burmes", "amharic", "fula", "romanian", "oromo", "igbo",
+        "azerbaijani", "awadhi", "dutch", "yoruba", "maithili", "ukrainian", "bhojpuri", 
+        "uzbek", "hebrew"
+    ]
+}
+
